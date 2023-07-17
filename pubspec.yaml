@@ -1,6 +1,6 @@
 name: htcds
 description: Human Trafficking Case Data Standard (HTCDS) objects, for easy creation, storage and transmission of case data related to human trafficking.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/0xdir/htcds_dart
 
 funding:

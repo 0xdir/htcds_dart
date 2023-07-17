@@ -18,7 +18,7 @@ handling cases related to human trafficking, technology
 service providers and independent software vendors (ISVs).
 
 This is a community maintained library which has no association 
-with International Organization for Migration’s (IOM).
+with the International Organization for Migration (IOM).
 
 ## Using
 
@@ -92,8 +92,8 @@ This package is possible thanks to the people and companies
 who donate money, services or time to keep the project running.
 
 If you're interested in becoming a Sponsor, Backer or Contributor
-to expand the project, reach out to me on [github].
+to expand the project, please visit my [github sponsors page].
 
-[github]: https://github.com/sponsors/0xdir
+[github sponsors page]: https://github.com/sponsors/0xdir
 
 Or buy me coffee at `0xdir.near`.
